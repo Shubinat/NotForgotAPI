@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotForgotAPI", "NotForgotAPI\NotForgotAPI.csproj", "{91CC5D1A-6AF6-4FE9-8023-446CF0B59EFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91CC5D1A-6AF6-4FE9-8023-446CF0B59EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CC5D1A-6AF6-4FE9-8023-446CF0B59EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CC5D1A-6AF6-4FE9-8023-446CF0B59EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CC5D1A-6AF6-4FE9-8023-446CF0B59EFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD56487E-979E-4C70-B8B6-B7F5B299BBC6}
+	EndGlobalSection
+EndGlobal
